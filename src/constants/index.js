@@ -100,7 +100,7 @@ const technologies = {
 
  const education = [
   {
-    college_name: "Georgia State University",
+    college_name: "GEORGIA STATE UNIVERSTY",
     degree: "Master of Science in Computer Science",
     date: "Aug 2023 - Present",
     gpa: "4.0/4.0",
@@ -121,7 +121,7 @@ const technologies = {
 const experiences = [
   {
     title: "Software Engineer - Graduate Research Assistant",
-    company_name: "Georgia State University",
+    company_name: "GUJARAT TECHNOLOGICAL UNIVERSITY",
     icon: gsuu,
     iconBg: "#E6DEDD",
     date: "Aug 2023 - Present",
