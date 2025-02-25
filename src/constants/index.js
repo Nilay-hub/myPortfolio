@@ -100,14 +100,14 @@ const technologies = {
 
  const education = [
   {
-    college_name: "GEORGIA STATE UNIVERSITY",
+    college_name: "Georgia State University",
     degree: "Master of Science in Computer Science",
     date: "Aug 2023 - Present",
     gpa: "4.0/4.0",
     description: "Full fee waiver along with GRA.",
   },
   {
-    college_name: "GUJARAT TECHNOLOGICAL UNIVERSITY",
+    college_name: "Gujarat Technological University",
     degree: "Bachelor of Technology in Computer Science",
     date: "June 2019 - May 2023",
     gpa: "3.9/4",
