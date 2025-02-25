@@ -107,7 +107,7 @@ const technologies = {
     description: "Full fee waiver along with GRA.",
   },
   {
-    college_name: "Gujarat Technological University",
+    college_name: "GUJARAT TECHNOLOGICAL UNIVERSITY",
     degree: "Bachelor of Technology in Computer Science",
     date: "June 2019 - May 2023",
     gpa: "3.9/4",
